@@ -34,6 +34,5 @@ class PrimeDirective {
     int[] numbers = {6, 29, 28, 33, 11, 100, 101, 43, 89};
 
     System.out.println(pd.onlyPrimes(numbers));
-
   }
 }
